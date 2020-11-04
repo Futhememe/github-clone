@@ -11,6 +11,23 @@
   <a href="#memo-license">License</a>
 </p>
 
+## :mag: How to use
+
+Você vai precisar do [Node.js](https://nodejs.org) instalado no seu computador e do ambiente do [ReactNative](https://reactnative.dev/docs/getting-started)
+
+```bash
+git clone https://github.com/Futhememe/github-clone.git
+cd github-clone
+
+yarn
+
+//para rodar no android
+yarn android
+
+//para rodar no ios
+yarn ios
+```
+
 ## :rocket: Technologies
 
 - [ReactNative](https://reactnative.dev/)
